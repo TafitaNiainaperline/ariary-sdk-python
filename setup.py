@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ariary-python-sdk",
+    name="ariary",
     version="1.0.1",
     description="SDK officiel Python pour l'API de paiement Ariary",
     author="Ariary",
